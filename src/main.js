@@ -26,3 +26,6 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
+
+
+arr=['小米手机','红米手机','联想笔记本','Mac Pro','iPhone Pro手机']
